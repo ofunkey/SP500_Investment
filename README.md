@@ -1,4 +1,4 @@
-# SP500 HedgeFund Bootcamp 
+# S&P500 Investment
  
 The "db_builder" folder has 4 Jupyter Notebooks that were used to build the database.
 
